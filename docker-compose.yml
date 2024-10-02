@@ -1,0 +1,8 @@
+version: 2.29.2
+
+services:
+  java-web-app:
+    build: .
+    ports:
+      - "8080:8080"
+    
