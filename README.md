@@ -1,4 +1,4 @@
-# Java Web App (Execise 2 )
+# Java Web App (Execise 3 )
 
 ## Preface
 This repository helps to dockeize and deploy java web apps using [Tomcat](https://tomcat.apache.org/) as web server, [Minikube](https://minikube.sigs.k8s.io/docs/) as Container Orchestration Platform and [Docker](https://www.docker.com/) as Containerization platform.
@@ -31,7 +31,7 @@ Perform the following steps:
     ```bash
     #Used to build muilti-Container Apps
 
-    docker-compose up
+    docker-compose 
     ```
 
 1. push the image to Docker Hub (Optional!)
